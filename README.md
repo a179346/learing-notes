@@ -5,3 +5,4 @@ My learing notes.
 
 * [Elastic Beanstalk Rolling Update](https://github.com/a179346/learing-notes/blob/main/rolling_update.md)
 * [CI/CD with Jenkins & BitBucket](https://github.com/a179346/learing-notes/blob/main/ci_cd_with_jenkins_bitbucket.md)
+* [Elasticsearch restore snapshot](https://github.com/a179346/learing-notes/blob/main/elasticsearch_restore_snapshot.md)
